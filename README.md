@@ -25,6 +25,3 @@ You can add bookmarks by writing an address in the box (Click "Save input") or b
 Your tracking websites will be visible on the extension main pop-up and when clicked they'll open in a new tab.  
 
 Clicking "Delete All" or cleaning your browser data will empty the tracker list.
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
