@@ -1,5 +1,7 @@
 # Bookmark Lite
 
+![MAIN](https://user-images.githubusercontent.com/111921924/224299498-8b41adb7-1eaa-4034-acca-a01dcd28ef4c.png)
+
 Bookmark Lite is a Chrome Extension build with Vanilla JS which uses LocalStorage and Google APIs to make temporary bookmarking easy.
 
 Most web searches have a limited time of interest, with Bookmark Lite you can track webpages on the topic that matters to you right now (travel destinations, tutorials, purchases...) and delete them when you finish your task with a simple click. 
